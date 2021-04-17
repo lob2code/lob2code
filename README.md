@@ -1,7 +1,9 @@
 # Hi there �
-I combine strong domain knowledge with technology expertise to build and maintain the best web applications for clients, whether the need is for B2B or B2C audiences.
-My expertise covers the entire spectrum of application types – from Single Page Applications (SPAs) which I develop with React.js, Vue.js or Angular to quick prototyping and mid-level web applications using Ruby on Rails or Laravel, and full enterprise-level applications using Java.
-Combined with expert knowledge in CSS3 and HTML5, I am equipped to make your application look elegant and provide a slick user experience.
+I develop software solutions for enterprise-level companies and small businesses alike.
+Whether your project is a brand new startup or an established corporation, I’ll love working with you to help make your ideas & vision a reality.
+I am here to be a complete technology partner for your project. I am an expert in the whole process – everything from idealization, design, and prototyping, to internet-scale rollout.
+I work in the kind of sprint cycles where the deliverable is measured, and feedback from the client is often.
+I believe in continuous delivery – deploy code often.
 
 - � I’m currently working as a freelancer
 - � I’m currently learning Spring boot
