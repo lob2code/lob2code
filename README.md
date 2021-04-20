@@ -5,10 +5,10 @@ I am here to be a complete technology partner for your project. I am an expert i
 I work in the kind of sprint cycles where the deliverable is measured, and feedback from the client is often.
 I believe in continuous delivery – deploy code often.
 
-- � I’m currently working as a freelancer
-- � I’m currently learning Spring boot
-- � I’m looking to collaborate on other content creators
-- � My goal is to deliver a high quality working
+- I’m currently working as a freelancer
+- I’m currently learning Spring boot
+- I’m looking to collaborate on other content creators
+- My goal is to deliver a high quality working
 
 #Get in touch
 ---
