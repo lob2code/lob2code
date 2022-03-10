@@ -13,7 +13,7 @@ I believe in continuous delivery – deploy code often.
 #Get in touch
 ---
 [<img align="left" alt="Mick" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://lob2-code.web.app/)
-[<img align="left" alt="Mick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.cn/in/yang-y-985a061b6/)
+[<img align="left" alt="Mick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yang-y-985a061b6/)
 ---
 
 ---
